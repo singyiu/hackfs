@@ -6,8 +6,7 @@ require (
 	github.com/disintegration/imaging v1.6.2
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-gonic/gin v1.6.3
-	github.com/gogo/protobuf v1.3.1
-	github.com/golang/protobuf v1.4.2
+	github.com/gogo/protobuf v1.3.2
 	github.com/ipfs/go-log v1.0.4
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/libp2p/go-libp2p v0.10.0
@@ -22,6 +21,6 @@ require (
 	github.com/textileio/go-threads v0.1.23
 	github.com/textileio/textile v1.0.13
 	github.com/zRedShift/mimemagic v1.1.0
-	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/grpc v1.30.0
 )
